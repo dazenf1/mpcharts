@@ -1,0 +1,2 @@
+rootProject.name='mpcharts'
+include ':app', ':MPChart_Library'
